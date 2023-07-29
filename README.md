@@ -3,7 +3,7 @@
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
-- 🤔 &nbsp; 22 years old developer.
+- 🤔 &nbsp; 22 years old backend developer.
 - 💼 &nbsp; I’m currently working on Node.js, Express.js, MongoDB, etc
 - 🌱 &nbsp; Learning more about frameworks.
 
